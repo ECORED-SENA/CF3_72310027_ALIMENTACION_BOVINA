@@ -1,17 +1,23 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Técnicas de conservación de forrajes y suplementación animal',
+    descripcionCurso:
+      'El componente formativo trata sobre técnicas de conservación de forrajes, como el ensilaje y la henificación, y la suplementación animal mediante bloques nutricionales. Explica los procesos, ventajas, desventajas y requerimientos de cada técnica, así como los ingredientes y métodos para elaborar suplementos nutricionales que mejoren la dieta de los animales, especialmente en épocas de escasez.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,13 +37,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Conservación de forrajes',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Técnicas de conservación de forrajes',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Heno',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,13 +56,35 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Suplementación',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Suplementos fibrosos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Suplementos proteicos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Suplementos energéticos',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Suplementos vitamínicos',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Alternativas de suplementación animal',
         desarrolloContenidos: true,
       },
     ],
