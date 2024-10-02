@@ -135,31 +135,119 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Conservación de forrajes',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Conservación de forrajes. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=I2G6MjqXGRQ&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Técnicas de conservación de forrajes',
+      referencia:
+        'TvAgro. (2023). Manejo y conservación de forrajes - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=j63R2D66K_Y&ab_channel=TvAgro',
+    },
+    {
+      tema: 'Heno',
+      referencia:
+        'TvAgro. (2023). Produccion de Heno Excelente Alternativa Nutricional - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=RW8_EtBmZ9s',
+    },
+    {
+      tema: 'Suplementación',
+      referencia:
+        'La Finca de Hoy. (2019). Suplemento económico para bovinos - La Finca de Hoy. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=velwo7bMV5Q',
+    },
+    {
+      tema: 'Suplementos fibrosos',
+      referencia:
+        'La Finca de Hoy. (2019). Ensilajes vs suplementos proteicos. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=_Y6t76pBx3w',
+    },
+    {
+      tema: 'Alternativas de suplementación animal',
+      referencia:
+        'La Finca de Hoy. (2017). Alternativas en la suplementación de bovinos | La Finca de Hoy [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=w0Hz0T4twNQ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Compactación',
+      significado:
+        'proceso de comprimir el forraje para eliminar el aire y evitar la proliferación de bacterias indeseables durante el ensilaje.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Digestibilidad in vitro de la MS',
+      significado:
+        'proporción del forraje que es digerible por el animal, evaluada en condiciones de laboratorio.',
+    },
+    {
+      termino: 'Ensilaje',
+      significado:
+        'técnica de conservación de forrajes mediante fermentación anaeróbica para mantener su valor nutritivo.',
+    },
+    {
+      termino: 'Fase aeróbica',
+      significado:
+        'primera fase del ensilaje donde el forraje continúa respirando y el oxígeno afecta la calidad del material.',
+    },
+    {
+      termino: 'Fase anaeróbica',
+      significado:
+        'segunda fase del ensilaje donde ocurre la fermentación en ausencia de oxígeno, esencial para la conservación del forraje.',
+    },
+    {
+      termino: 'Fibra detergente neutra (FDN)',
+      significado:
+        'medida de las paredes celulares del forraje, que afecta la digestibilidad y la cantidad de energía disponible.',
+    },
+    {
+      termino: 'Forraje',
+      significado:
+        'plantas o vegetación utilizadas como alimento para el ganado.',
+    },
+    {
+      termino: 'Heno',
+      significado:
+        'forraje seco utilizado como alimento para el ganado, obtenido al reducir su contenido de agua entre un 15 % y 25 %.',
+    },
+    {
+      termino: 'Materia seca (MS)',
+      significado:
+        'cantidad de forraje que queda una vez eliminado el agua, utilizado para medir el contenido de nutrientes.',
+    },
+    {
+      termino: 'Proteína cruda (PC)',
+      significado:
+        'contenido total de proteína en el forraje, esencial para la alimentación animal.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'FAO. (2014). Capítulo VI cultivos para heno - leguminosas forrajeras y legumbres. ',
+      link: 'http://www.fao.org/docrep/007/x7660s/x7660s0a.htm',
+    },
+    {
+      referencia: 'Fondo Ganadero de Honduras (s.f.). Manejo de praderas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pozzolo, O. (2007). Cosecha de Forrajes. Argentina: Universidad Nacional de Entre Ríos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rúa, M. (2010). Cómo aforar un potrero para pastorear correctamente. Argentina: Cultura empresarial ganadera.',
       link: '',
     },
   ],
@@ -183,8 +271,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Ángela Viviana Páez Perilla',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -193,35 +286,35 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y productor audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',

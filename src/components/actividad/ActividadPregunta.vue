@@ -2,7 +2,7 @@
   <div>
     <p class="mb-4 pb-4" v-html="pregunta.texto"></p>
     <div class="row align-items-center">
-      <div class="d-none d-md-block col-5">
+      <div class="d-none d-md-block col-4">
         <img :src="pregunta.imagen" alt="" />
       </div>
       <div class="col">
