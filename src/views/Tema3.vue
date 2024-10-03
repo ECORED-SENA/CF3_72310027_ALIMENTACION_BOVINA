@@ -105,7 +105,7 @@
                 li.d-flex
                   i.fas.fa-hat-cowboy(style="color: #FF7C32")
                   |
-                  p.mb-0 Una vez la mezcla sea homogénea, coloque la masa dentro de un balde, un recipiente de plástico o en cubos.
+                  p.mb-0 Una vez que la mezcla sea homogénea, coloque la masa dentro de un balde, un recipiente de plástico o en cubos.
                 li.d-flex
                   i.fas.fa-hat-cowboy(style="color: #FF7C32")
                   |
@@ -212,7 +212,7 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Fuente de energía")
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Melaza: fuente rica en carbohidratos y minerales como el potasio. Se puede usar de 25 % a 60 %, pero es recomendable utilizarla pura para mejor consistencia. Harinas: Yuca, sorgo y maíz molido, ricos en carbohidratos.
+              p.mb-0 Melaza: fuente rica en carbohidratos y minerales como el potasio. Se puede usar de 25 % a 60 %, pero es recomendable utilizarla pura para mejor consistencia. Harinas: yuca, sorgo y maíz molido, ricos en carbohidratos.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema3/img15.png', alt='', style='width: 300px').m-auto
@@ -224,13 +224,13 @@
                 img(src='@/assets/curso/tema3/img16.png', alt='', style='width: 300px').m-auto
           .row(numero="3" titulo="Fuente de proteína")
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Harina, tortas de oleaginosas o semillas enteras: Tortas de maní, ajonjolí y algodón. También se pueden usar semillas enteras.
+              p.mb-0 Harina, tortas de oleaginosas o semillas enteras: tortas de maní, ajonjolí y algodón. También se pueden usar semillas enteras.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema3/img17.png', alt='', style='width: 300px').m-auto
           .row(numero="4" titulo="Fibra de soporte")
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Cascarillas de arroz, algodón, soya, heno de pasto cortado, tusa de maíz, bagazo de caña: Proporcionan soporte y rigidez al bloque.
+              p.mb-0 Cascarillas de arroz, algodón, soya, heno de pasto cortado, tusa de maíz, bagazo de caña: proporcionan soporte y rigidez al bloque.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema3/img18.png', alt='', style='width: 300px').m-auto
@@ -242,7 +242,7 @@
                 img(src='@/assets/curso/tema3/img19.png', alt='', style='width: 300px').m-auto
           .row(numero="6" titulo="Material cementante")
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Tierra arcillosa, calcio, cal viva, yeso y cemento: Proporcionan firmeza y aportan calcio al bloque.
+              p.mb-0 Tierra arcillosa, calcio, cal viva, yeso y cemento: proporcionan firmeza y aportan calcio al bloque.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema3/img20.png', alt='', style='width: 300px').m-auto

@@ -48,7 +48,7 @@
         .p-4.bg-c5
           figure.mb-3
             img(src='@/assets/curso/tema1/img6.svg', alt='', style='width: 130px').m-auto
-          p.text-center.mb-0 Se aprovechan los forrajes producidos en las temporadas de luvias, que de otro modo se perderían por el pisoteo del ganado.
+          p.text-center.mb-0 Se aprovechan los forrajes producidos en las temporadas de lluvias, que de otro modo se perderían por el pisoteo del ganado.
       .col-10.col-md-6.col-lg-3
         .p-4.bg-c5
           figure.mb-3
@@ -105,7 +105,7 @@
                     figure
                       img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 200px').m-auto
                   .col
-                    p.mb-3 Muchos ganaderos pasan por alto que después de la cosecha de forrajes llega la época de escasez, debido a la falta de lluvia, lo que reduce la producción de leche y carne en los hatos. Por esta razón, es esencial conservar pastos para usarlos posteriormente, y la forma más sencilla de hacerlo es mediante la construcción de un silo, en el cual se aprovechan los pastos de las temporadas lluviosas, especialmente los de corte como el Camerún, el king grass y otros forrajes como el maíz, la caña y la yuca. Así, el ensilaje previene la pérdida de alimento y asegura su disponibilidad para mantener la producción del hato durante todo el año.
+                    p.mb-3 Muchos ganaderos pasan por alto que después de la cosecha de forrajes llega la época de escasez, debido a la falta de lluvia, lo que reduce la producción de leche y carne en los hatos. Por esta razón, es esencial conservar pastos para usarlos posteriormente, y la forma más sencilla de hacerlo es mediante la construcción de un silo, en el cual se aprovechan los pastos de las temporadas lluviosas, especialmente los de corte como el Camerún, el #[i king grass] y otros forrajes como el maíz, la caña y la yuca. Así, el ensilaje previene la pérdida de alimento y asegura su disponibilidad para mantener la producción del hato durante todo el año.
                     figure.d-flex.justify-content-end
                       img(src='@/assets/curso/tema1/img13.svg', alt='', style='width: 60px')
           .row.mb-4(data-aos="fade-right")
@@ -320,7 +320,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   p #[b Compactación]
-                  p Se recomienda compactar capas de 0.5 a 1 cm de grosor para evitar que quede aire en el silo, lo que puede dañar la calidad del ensilado.
+                  p Se recomienda compactar capas de 0,5 a 1 cm de grosor para evitar que quede aire en el silo, lo que puede dañar la calidad del ensilado.
                 .col-lg-5
                   figure
                     img(src='@/assets/curso/tema1/img14.png', alt='', style='width: 400px').m-auto
@@ -331,7 +331,7 @@
             .lista-ol--cuadro__vineta
               span #[b b]
             |
-            p.mb-0 #[b Fase anaeróbica:] B.durante esta fase ocurre la fermentación. Las células vegetales mueren, liberando carbohidratos, grasas y proteínas, lo que genera el desarrollo de microorganismos como bacterias ácido-lácticas, bacterias butíricas, levaduras y hongos. Las bacterias ácido-lácticas deben proliferar, ya que prolongan la vida útil del forraje. Esto se logra manteniendo la temperatura adecuada, alrededor de 30 °C, buena ventilación y suficiente alimento para las bacterias. Estas bacterias producen un pH de entre 4.2 y 3.8, eliminando las bacterias perjudiciales.
+            p.mb-0 #[b Fase anaeróbica:] durante esta fase ocurre la fermentación. Las células vegetales mueren, liberando carbohidratos, grasas y proteínas, lo que genera el desarrollo de microorganismos como bacterias ácido-lácticas, bacterias butíricas, levaduras y hongos. Las bacterias ácido-lácticas deben proliferar, ya que prolongan la vida útil del forraje. Esto se logra manteniendo la temperatura adecuada, alrededor de 30 °C, buena ventilación y suficiente alimento para las bacterias. Estas bacterias producen un pH de entre 4,2 y 3,8, eliminando las bacterias perjudiciales.
         p.mb-0 #[b Aditivos en el ensilaje]
         p.mb-0 A veces es necesario utilizar aditivos en el ensilaje para mejorar sus condiciones. Se dividen en dos grupos:
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
@@ -405,7 +405,7 @@
         .p-4.bg-c5
           figure.mb-3
             img(src='@/assets/curso/tema1/img22.svg', alt='', style='width: 130px').m-auto
-          p.text-center.mb-0 Cortar el forraje en partículas de entre 1.5 cm y 5 cm.
+          p.text-center.mb-0 Cortar el forraje en partículas de entre 1,5 cm y 5 cm.
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0
         .p-4.bg-c5
           figure.mb-3
@@ -520,10 +520,10 @@
             th.text-center Mala
         tr
           td #[b Color]
-          td(style='border-left: 1px solid #AFAFAF') Verde aceituna
-          td(style='border-left: 1px solid #AFAFAF') Verde amarillento
-          td(style='border-left: 1px solid #AFAFAF') Verde oscuro
-          td(style='border-left: 1px solid #AFAFAF') Carmelita casi negro
+          td(style='border-left: 1px solid #AFAFAF') Verde aceituna.
+          td(style='border-left: 1px solid #AFAFAF') Verde amarillento.
+          td(style='border-left: 1px solid #AFAFAF') Verde oscuro.
+          td(style='border-left: 1px solid #AFAFAF') Carmelita casi negro.
         tr
           td #[b Olor]
           td(style='border-left: 1px solid #AFAFAF') Agradable, a fruta madura.
@@ -828,40 +828,40 @@
             th.text-center Digestibilidad in vitro de la MS (%)
         tr
           td.text-center #[b Maní forrajero]
-          td.text-center(style='border-left: 1px solid #AFAFAF') 92.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 14.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 52.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 67.0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 92,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 14,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 52,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 67,0
         tr
           td.text-center #[b Caupi]
-          td.text-center(style='border-left: 1px solid #AFAFAF') 94.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 19.2
-          td.text-center(style='border-left: 1px solid #AFAFAF') 60.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 69.0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 94,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 19,2
+          td.text-center(style='border-left: 1px solid #AFAFAF') 60,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 69,0
         tr
           td.text-center #[b Canavalia]
-          td.text-center(style='border-left: 1px solid #AFAFAF') 93.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 17.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 60.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 61.0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 93,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 17,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 60,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 61,0
         tr
           td.text-center #[b Cratylia]
-          td.text-center(style='border-left: 1px solid #AFAFAF') 91.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 19.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 67.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 45.0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 91,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 19,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 67,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 45,0
         tr
           td.text-center #[b Mulato]
-          td.text-center(style='border-left: 1px solid #AFAFAF') 92.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 9.1
-          td.text-center(style='border-left: 1px solid #AFAFAF') 66.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 67.0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 92,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 9,1
+          td.text-center(style='border-left: 1px solid #AFAFAF') 66,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 67,0
         tr
           td.text-center #[b Toledo]
-          td.text-center(style='border-left: 1px solid #AFAFAF') 90.0
-          td.text-center(style='border-left: 1px solid #AFAFAF') 9.2
-          td.text-center(style='border-left: 1px solid #AFAFAF') 73.2
-          td.text-center(style='border-left: 1px solid #AFAFAF') 64.0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 90,0
+          td.text-center(style='border-left: 1px solid #AFAFAF') 9,2
+          td.text-center(style='border-left: 1px solid #AFAFAF') 73,2
+          td.text-center(style='border-left: 1px solid #AFAFAF') 64,0
     .row.mb-5
       .col-12
         .px-4.pt-4.pb-3.bg-c3
@@ -870,7 +870,7 @@
               figure
                 img(src='@/assets/curso/tema1/img31.png', alt='', style='width: 200px').m-auto
             .col
-              p.mb-3 Muchos ganaderos pasan por alto que después de la cosecha de forrajes llega la época de escasez, debido a la falta de lluvia, lo que reduce la producción de leche y carne en los hatos. Por esta razón, es esencial conservar pastos para usarlos posteriormente, y la forma más sencilla de hacerlo es mediante la construcción de un silo, en el cual se aprovechan los pastos de las temporadas lluviosas, especialmente los de corte como el Camerún, el king grass y otros forrajes como el maíz, la caña y la yuca. Así, el ensilaje previene la pérdida de alimento y asegura su disponibilidad para mantener la producción del hato durante todo el año.
+              p.mb-3 Muchos ganaderos pasan por alto que después de la cosecha de forrajes llega la época de escasez, debido a la falta de lluvia, lo que reduce la producción de leche y carne en los hatos. Por esta razón, es esencial conservar pastos para usarlos posteriormente, y la forma más sencilla de hacerlo es mediante la construcción de un silo, en el cual se aprovechan los pastos de las temporadas lluviosas, especialmente los de corte como el Camerún, el #[i king grass] y otros forrajes como el maíz, la caña y la yuca. Así, el ensilaje previene la pérdida de alimento y asegura su disponibilidad para mantener la producción del hato durante todo el año.
               figure.d-flex.justify-content-end
                 img(src='@/assets/curso/tema1/img42.svg', alt='', style='width: 60px')
     p.mb-5(data-aos="fade-right") Las generalidades importantes para la elaboración de heno son:
@@ -908,7 +908,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img43.svg', alt='', style='width: 50px')
                 .col
-                  p.mb-0 Para cortar gramíneas como el panicum y brachiaria, debe realizarse entre 28 y 35 días después del último corte.
+                  p.mb-0 Para cortar gramíneas como el #[i panicum] y #[i brachiaria], debe realizarse entre 28 y 35 días después del último corte.
           .col-12.bg-c18
             .p-3
               .row.align-items-center
@@ -916,7 +916,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img43.svg', alt='', style='width: 50px')
                 .col
-                  p.mb-0 En el caso de leguminosas arbustivas como la cratylia, el corte debe realizarse entre 56 y 70 días después del último corte.
+                  p.mb-0 En el caso de leguminosas arbustivas como la #[i cratylia], el corte debe realizarse entre 56 y 70 días después del último corte.
       .col-lg-5.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img32.png', alt='', style='width: 440px').m-auto
