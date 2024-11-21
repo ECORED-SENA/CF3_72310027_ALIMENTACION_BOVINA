@@ -255,7 +255,7 @@
         .p-4.bg-c5
           figure.mb-3
             img(src='@/assets/curso/tema3/img11.svg', alt='', style='width: 130px').m-auto
-          p.text-center.mb-0 Lámina de nylon grueso y grande.
+          p.text-center.mb-0 Lámina de #[i nylon] gruesa y grande.
       .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c5
           figure.mb-3

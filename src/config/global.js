@@ -137,7 +137,7 @@ export default {
     {
       tema: 'Conservación de forrajes',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Conservación de forrajes. [Archivo de video] Youtube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Conservación de forrajes. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=I2G6MjqXGRQ&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -145,35 +145,35 @@ export default {
     {
       tema: 'Técnicas de conservación de forrajes',
       referencia:
-        'TvAgro. (2023). Manejo y conservación de forrajes - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] Youtube.',
+        'TvAgro. (2023). Manejo y conservación de forrajes - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=j63R2D66K_Y&ab_channel=TvAgro',
     },
     {
       tema: 'Heno',
       referencia:
-        'TvAgro. (2023). Produccion de Heno Excelente Alternativa Nutricional - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] Youtube.',
+        'TvAgro. (2023). Produccion de Heno Excelente Alternativa Nutricional - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RW8_EtBmZ9s',
     },
     {
       tema: 'Suplementación',
       referencia:
-        'La Finca de Hoy. (2019). Suplemento económico para bovinos - La Finca de Hoy. [Archivo de video] Youtube.',
+        'La Finca de Hoy. (2019). Suplemento económico para bovinos - La Finca de Hoy. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=velwo7bMV5Q',
     },
     {
       tema: 'Suplementos fibrosos',
       referencia:
-        'La Finca de Hoy. (2019). Ensilajes vs suplementos proteicos. [Archivo de video] Youtube.',
+        'La Finca de Hoy. (2019). Ensilajes vs suplementos proteicos. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_Y6t76pBx3w',
     },
     {
       tema: 'Alternativas de suplementación animal',
       referencia:
-        'La Finca de Hoy. (2017). Alternativas en la suplementación de bovinos | La Finca de Hoy [Archivo de video] Youtube.',
+        'La Finca de Hoy. (2017). Alternativas en la suplementación de bovinos | La Finca de Hoy [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=w0Hz0T4twNQ',
     },

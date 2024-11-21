@@ -9,7 +9,7 @@
     .row.mb-4
       .col-12
         .p-4.bg-c15
-          p(data-aos="fade-right") La suplementación animal es una práctica que consiste en proporcionar a los animales de producción una fuente adicional de nutrientes que complementa su dieta básica, especialmente en situaciones donde los recursos naturales, como los pastos, no satisfacen todas sus necesidades nutricionales. Esta técnica es fundamental para mejorar el rendimiento productivo y reproductivo de los animales, garantizando un adecuado aporte de energía, proteínas, vitaminas y minerales, lo que contribuye a su salud, crecimiento y eficiencia en la producción de carne, leche u otros productos. En el siguiente podcast se explica a profundidad:
+          p(data-aos="fade-right") La suplementación animal es una práctica que consiste en proporcionar a los animales de producción una fuente adicional de nutrientes que complementa su dieta básica, especialmente en situaciones donde los recursos naturales, como los pastos, no satisfacen todas sus necesidades nutricionales. Esta técnica es fundamental para mejorar el rendimiento productivo y reproductivo de los animales, garantizando un adecuado aporte de energía, proteínas, vitaminas y minerales, lo que contribuye a su salud, crecimiento y eficiencia en la producción de carne, leche u otros productos. En el siguiente pódcast se explica a profundidad:
           .row
             .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
               .p-3.bg-c22
@@ -82,7 +82,7 @@
                         .col-auto
                           .py-2.px-3.bg-c9
                             p.text-white.mb-0 #[b Pastos de corte]
-                      p.mb-0 Especies como King grass, elefante, maralfalfa e imperial son muy utilizadas para la suplementación en sistemas de pastoreo, ya sea frescos o como pastos de reserva. Estos pastos, ricos en biomasa y proteína, son comunes en la alimentación estabulada de bovinos.
+                      p.mb-0 Especies como King grass, elefante, maralfalfa e imperial son muy utilizadas para la suplementación en sistemas de pastoreo, ya sean frescos o como pastos de reserva. Estos pastos, ricos en biomasa y proteína, son comunes en la alimentación estabulada de bovinos.
             .col-10.col-lg-5
               .bg-c5
                 figure

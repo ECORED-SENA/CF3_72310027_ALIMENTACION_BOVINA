@@ -146,7 +146,7 @@
             .col-lg-6.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema1/img6.png', alt='', style='width: 700px').m-auto
-    p.mb-5(data-aos="fade-right") La ventajas y desventajas del ensilaje son:
+    p.mb-5(data-aos="fade-right") lluviosas ventajas y desventajas del ensilaje son:
     .row.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right")
         .p-4
@@ -581,7 +581,7 @@
                   li.d-flex
                     i.fas.fa-hat-cowboy(style="color: #FF7C32")
                     |
-                    p.mb-0 La calidad del heno es comparable a la del forraje fresco.
+                    p.mb-0 La calidad del heno es comparable con la del forraje fresco.
                   li.d-flex
                     i.fas.fa-hat-cowboy(style="color: #FF7C32")
                     |
@@ -782,7 +782,7 @@
                     li.d-flex
                       i.lista-ul__vineta
                       |
-                      p.mb-0 Brachiaria híbrida (mulato).
+                      p.mb-0 #[i Brachiaria] híbrida (mulato).
           .col-10.col-lg-6
             .row
               .col-12
@@ -797,7 +797,7 @@
                     li.d-flex
                       i.lista-ul__vineta
                       |
-                      p.mb-0 Caupi.
+                      p.mb-0 Caupí.
                     li.d-flex
                       i.lista-ul__vineta
                       |
@@ -805,7 +805,7 @@
                     li.d-flex
                       i.lista-ul__vineta
                       |
-                      p.mb-0 Cratylia.
+                      p.mb-0 #[i Cratylia].
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img28.png', alt='', style='width: 400px').m-auto
@@ -833,7 +833,7 @@
           td.text-center(style='border-left: 1px solid #AFAFAF') 52,0
           td.text-center(style='border-left: 1px solid #AFAFAF') 67,0
         tr
-          td.text-center #[b Caupi]
+          td.text-center #[b Caupí]
           td.text-center(style='border-left: 1px solid #AFAFAF') 94,0
           td.text-center(style='border-left: 1px solid #AFAFAF') 19,2
           td.text-center(style='border-left: 1px solid #AFAFAF') 60,0
@@ -845,7 +845,7 @@
           td.text-center(style='border-left: 1px solid #AFAFAF') 60,0
           td.text-center(style='border-left: 1px solid #AFAFAF') 61,0
         tr
-          td.text-center #[b Cratylia]
+          td.text-center #[b #[i Cratylia]]
           td.text-center(style='border-left: 1px solid #AFAFAF') 91,0
           td.text-center(style='border-left: 1px solid #AFAFAF') 19,0
           td.text-center(style='border-left: 1px solid #AFAFAF') 67,0
