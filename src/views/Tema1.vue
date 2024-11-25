@@ -146,7 +146,7 @@
             .col-lg-6.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema1/img6.png', alt='', style='width: 700px').m-auto
-    p.mb-5(data-aos="fade-right") las ventajas y desventajas del ensilaje son:
+    p.mb-5(data-aos="fade-right") Las ventajas y desventajas del ensilaje son:
     .row.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right")
         .p-4
